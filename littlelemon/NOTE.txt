@@ -1,0 +1,8 @@
+Superuser:
+
+userzero
+email@address.com
+supersecure
+
+!!!IMPORTANT!!!
+The database as defined in the settings is all lowercase. Be mindful of the name should it be different from yours
